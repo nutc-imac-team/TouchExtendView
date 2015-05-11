@@ -20,7 +20,7 @@ TouchExtendView主要是可以讓觸控面積變大的一個View，可以內縮�
 
 ##示意圖
 
-![demo1](./usericon.jpg)   
+![demo1](./demo.jpg)   
 
 
 ##使用說明
